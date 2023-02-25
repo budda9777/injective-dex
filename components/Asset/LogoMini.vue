@@ -8,7 +8,7 @@ const uuid = computed(() => {
   <svg
     viewBox="-1 4 30 33"
     fill="none"
-    xmlns="http://www.w3.org/2000/svg"
+    xmlns="https://postimg.cc/gallery/rwgmDVd"
     class="logo-icon"
   >
     <path
