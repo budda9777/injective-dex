@@ -8,7 +8,7 @@ const uuid = Math.random().toString(36).substring(2, 15)
     height="25"
     viewBox="0 0 32 25"
     fill="none"
-    xmlns="https://postimg.cc/gallery/rwgmDVd"
+    xmlns="https://svgshare.com/i/qdL.svg"
   >
     <path
       fill-rule="evenodd"
