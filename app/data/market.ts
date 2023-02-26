@@ -33,7 +33,7 @@ export const slugsToIncludeInCosmosCategory = [
   'strd-usdt',
   'inj-usdt-perp',
   'osmo-usdt-perp',
-  'para-usdt-per'
+  'para-usdt-perp'
 ]
 
 export const slugsToExcludeFromEthereumCategory = [
@@ -41,7 +41,8 @@ export const slugsToExcludeFromEthereumCategory = [
   'btc-usdt',
   'btc-usdt-perp',
   'link-usdt',
-  'link-usdt-perp'
+  'link-usdt-perp',
+  'para-usdt'
 ]
 
 export const excludedPriceDeviationSlugs = [] as string[]
